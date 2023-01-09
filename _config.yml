@@ -71,6 +71,8 @@ username: Seowung
 repo: lkid7715
 branch: master
 destination: ./output
+production_url: https://Seowung.github.io/lkid7715/
+source_url: https://github.com/Seowung/lkid7715/
 
 exclude:
   - assets/css
