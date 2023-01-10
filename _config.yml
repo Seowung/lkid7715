@@ -69,7 +69,7 @@ safe: False
 lsi: False
 username: Seowung
 repo: lkid7715
-branch: master
+branch: gh-pages
 destination: ./output
 production_url: https://Seowung.github.io/lkid7715/
 source_url: https://github.com/Seowung/lkid7715/
